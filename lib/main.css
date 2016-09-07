@@ -567,6 +567,12 @@ footer a, footer a:visited {
  
 }
 
+.moztags a.tag.active {
+    background-color: #Ff0;
+    border-left-color: #fc0;
+    color: #fa0;
+}
+
 .moztags a.tag.green {
     background-color: #c6e2cc;
     border-left-color: #309c40;
