@@ -130,17 +130,18 @@ p span.author {
 }
 
 div.content div.teaser {
-    margin-top: -4rem;
+    /*margin-top: -4rem;*/
 }
 .teaser p {
-    
     font-size: 1.2rem;
     /*line-height: normal;*/
     font-family: 'Roboto Slab', serif;
 }
 .teaser p span {
-    background-color: #ffed05; /*#ffed05;*/
+    /*
+    background-color: #ffed05;
     margin: -1rem;
+    */
 }
 
 /**
