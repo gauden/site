@@ -366,7 +366,7 @@ sup a {
 }
 
 html[lang="ru"] section.footnotes::before {
-    content: 'Рекомендации'; /* Rekomendatsii */
+    content: 'Библиография'; /* Rekomendatsii */
     font-weight: bold;
     font-size: 1rem;
     line-height: 4rem;
